@@ -119,11 +119,11 @@ p{
  }
  .containt:hover{
     color: deeppink;
-    scale: 1.001;
+    scale: 1.00;
  }
  .link a:hover{
     color: rgb(255, 0, 0);
-    scale: 1.2;
+    scale: 1;
  }
  #aman:hover{
     color: chartreuse;
